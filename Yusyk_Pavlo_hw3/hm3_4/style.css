@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.col1{
+    width: 100vw;
+    height: 50vh;
+    background-color: lightcoral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col2{
+    width: 100vw;
+    height: 50vh;
+    background-color: dimgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    margin: 0 50%;
+}

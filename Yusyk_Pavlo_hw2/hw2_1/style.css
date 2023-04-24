@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: palegoldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+}
+
+#Cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+#DynaPuff {
+    font-family: 'DynaPuff', cursive;
+}
+
+#Inspiration {
+    font-family: 'Inspiration', cursive;
+}
+
+#Lobster {
+    font-family: 'Lobster', cursive;
+}
+
+#Sedgwick {
+    font-family: 'Sedgwick Ave Display', cursive
+}

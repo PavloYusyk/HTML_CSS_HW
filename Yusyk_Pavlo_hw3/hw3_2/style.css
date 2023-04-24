@@ -1,0 +1,66 @@
+html{
+    font-family: 'Jost', sans-serif;
+}
+body{
+    margin: 0;
+}
+header{
+    width: 100vw;
+    height: 12vh;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+nav{
+    margin-right: 45px;
+}
+a{
+    text-decoration: none;
+    font-size: 35px;
+    margin: 0 45px;
+    color: #7A7070;
+}
+.active_page{
+    color: #3D6FB4;
+}
+
+/*---------Main-------*/
+
+main{
+    display: flex;
+    justify-content: space-around;
+}
+section{
+    width: 50vw;
+    height: 88vh;
+}
+article{
+    width: 50vw;
+    height: 88vh;
+}
+section h1{
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 175px;
+    margin-bottom: 0;
+}
+section p{
+    font-size: 35px;
+    margin-left: 155px;
+    margin-top: 50px;
+}
+button{
+    font-size: 16px;
+    height: 55px;
+    width: 150px;
+    border: solid, 1px;
+    border-radius:30%;
+}
+#but1{
+    margin-left: 155px;
+    margin-right: 40px;
+    background-color: white;
+}
+#but2{
+    background-color: #ECBCBC;
+}
