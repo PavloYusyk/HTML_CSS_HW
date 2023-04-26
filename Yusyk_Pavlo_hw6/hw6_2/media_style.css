@@ -1,0 +1,17 @@
+@media screen and (min-width: 300px) and (max-width: 900px){
+    .wrap{
+        flex-direction: column;
+    }
+    .b, .d, .e, .g{
+        height: 20vh;
+        width: 33vw;
+    }
+    .c, .f{
+        height: 20vh;
+        width: 34vw;
+    }
+    .h{
+        height: 40vh;
+        width: 100vw;
+    }
+}
